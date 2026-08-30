@@ -6,7 +6,7 @@
      Markering: [woorden](/pad) voor een link, **vet**, *cursief*. Geen HTML. -->
 
 ## kennis-waarom-voornemens-stranden.deel01.p-1
-Bijna iedereen die bij mij komt weet ongeveer wat er zou moeten veranderen. Minder suiker, meer bewegen, eerder naar bed, vaker nee zeggen. De kennis is er. De motivatie meestal ook, zeker in de eerste weken. En toch loopt het vast. Dat ligt zelden aan doorzettingsvermogen.
+Bijna iedereen die bij mij komt weet ongeveer wat er zou moeten veranderen. Minder suiker, meer bewegen, eerder naar bed, vaker nee zeggen. De kennis is er. De motivatie meestal ook, zeker in de eerste weken. En toch loopt het vast, dat ligt zelden aan doorzettingsvermogen.
 
 ## kennis-waarom-voornemens-stranden.deel02.h2-1
 Waarom een goed plan niet genoeg is
