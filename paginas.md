@@ -133,10 +133,6 @@ Pagina niet gevonden · Vitale Impuls
 ## 404.omschrijving
 Deze pagina van Vitale Impuls bestaat niet meer. Bekijk het overzicht van pagina's of neem contact op met Rinda Verspui.
 
-<!-- Kennisbank: het overzicht en per artikel de titel, de omschrijving,
-     de kop en de inleiding boven het artikel, en de samenvatting die op het
-     overzicht komt te staan. -->
-
 ## kennis.titel
 Kennisbank · Vitale Impuls
 
@@ -223,4 +219,19 @@ Niet de aanval met het zakje voor de mond, maar het stille patroon dat jaren kan
 
 ## kennis-chronische-hyperventilatie.samenvatting
 Waarom je het zelf niet merkt, acht signalen die vaker samen voorkomen, twee oefeningen, en wanneer je eerst de huisarts belt.
+
+## kennis-wat-is-de-wim-hof-methode.status
+concept
+
+## kennis-wie-is-wim-hof.status
+concept
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.status
+concept
+
+## kennis-eerste-ijsbad.status
+concept
+
+## kennis-chronische-hyperventilatie.status
+concept
 
