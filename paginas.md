@@ -133,3 +133,94 @@ Pagina niet gevonden · Vitale Impuls
 ## 404.omschrijving
 Deze pagina van Vitale Impuls bestaat niet meer. Bekijk het overzicht van pagina's of neem contact op met Rinda Verspui.
 
+<!-- Kennisbank: het overzicht en per artikel de titel, de omschrijving,
+     de kop en de inleiding boven het artikel, en de samenvatting die op het
+     overzicht komt te staan. -->
+
+## kennis.titel
+Kennisbank · Vitale Impuls
+
+## kennis.omschrijving
+Artikelen over ademhaling, koudetraining en de Wim Hof-methode, geschreven door Rinda Verspui, ademcoach en vitaliteitscoach in Gorinchem.
+
+## kennis.hero.kop
+Kennisbank
+
+## kennis.hero.lead
+Wat mensen mij het vaakst vragen, uitgeschreven. Feitelijk, met de bronnen erbij, en zonder grotere beloften dan ik waar kan maken.
+
+## kennis-wat-is-de-wim-hof-methode.titel
+Wat is de Wim Hof-methode? · Vitale Impuls
+
+## kennis-wat-is-de-wim-hof-methode.omschrijving
+De Wim Hof-methode uitgelegd: ademhaling, koude en volhouden. Wat het onderzoek laat zien, wat het niet is, en hoe je veilig begint.
+
+## kennis-wat-is-de-wim-hof-methode.hero.kop
+Wat is de Wim Hof-methode?
+
+## kennis-wat-is-de-wim-hof-methode.hero.lead
+Ademhaling, koude en volhouden. Wat de methode inhoudt, wat het onderzoek ervan laat zien, en waar de grens ligt.
+
+## kennis-wat-is-de-wim-hof-methode.samenvatting
+De drie onderdelen van de methode, het onderzoek uit Nijmegen en het overzicht uit 2025, en wat de methode uitdrukkelijk niet is.
+
+## kennis-wie-is-wim-hof.titel
+Wie is Wim Hof? · Vitale Impuls
+
+## kennis-wie-is-wim-hof.omschrijving
+Wie Wim Hof is, hoe hij bekend werd, waarom onderzoekers naar hem keken en waar de kritiek op zijn methode over gaat.
+
+## kennis-wie-is-wim-hof.hero.kop
+Wie is Wim Hof?
+
+## kennis-wie-is-wim-hof.hero.lead
+De man achter de methode: waar hij vandaan komt, wat hij kan, en waarom er zowel onderzoek als kritiek is.
+
+## kennis-wie-is-wim-hof.samenvatting
+Van Sittard naar het ijs, de records, het onderzoek in Nijmegen, en de twee soorten kritiek die terecht zijn.
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.titel
+Is de Wim Hof-methode gevaarlijk? · Vitale Impuls
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.omschrijving
+De ene fout die dodelijk afloopt, voor wie koude minder verstandig is, en hoe je de oefeningen wel veilig doet. Door een oud-IC-verpleegkundige.
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.hero.kop
+Is de Wim Hof-methode gevaarlijk?
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.hero.lead
+Voor de meeste mensen goed te doen, met één uitzondering die je echt moet kennen. Waar het misgaat, en hoe je het voorkomt.
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.samenvatting
+Waarom je de ademhalingsoefening nooit in of bij water doet, voor wie koude minder verstandig is, en de regels die ik zelf hanteer.
+
+## kennis-eerste-ijsbad.titel
+Je eerste ijsbad: veilig beginnen · Vitale Impuls
+
+## kennis-eerste-ijsbad.omschrijving
+Hoe je een eerste ijsbad rustig aanpakt: temperatuur, tijd, wat er in je lichaam gebeurt, en de fouten die het vaakst gemaakt worden.
+
+## kennis-eerste-ijsbad.hero.kop
+Je eerste ijsbad
+
+## kennis-eerste-ijsbad.hero.lead
+Korter, minder koud en rustiger dan je denkt. Een eerste keer die goed gaat, gaat vooral over ademhalen.
+
+## kennis-eerste-ijsbad.samenvatting
+Wat er in de eerste seconden gebeurt, welke temperatuur en tijd verstandig zijn, stap voor stap, en wat je er wel en niet van mag verwachten.
+
+## kennis-chronische-hyperventilatie.titel
+Te hoog ademen herkennen · Vitale Impuls
+
+## kennis-chronische-hyperventilatie.omschrijving
+Chronische hyperventilatie is zelden een aanval en meestal iets stils. De signalen, twee dingen om te proberen, en wanneer je de huisarts belt.
+
+## kennis-chronische-hyperventilatie.hero.kop
+Te hoog ademen: hoe je het bij jezelf herkent
+
+## kennis-chronische-hyperventilatie.hero.lead
+Niet de aanval met het zakje voor de mond, maar het stille patroon dat jaren kan blijven staan zonder dat je het merkt.
+
+## kennis-chronische-hyperventilatie.samenvatting
+Waarom je het zelf niet merkt, acht signalen die vaker samen voorkomen, twee oefeningen, en wanneer je eerst de huisarts belt.
+
