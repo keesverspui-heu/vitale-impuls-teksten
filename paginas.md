@@ -140,7 +140,7 @@ Kennisbank · Vitale Impuls
 Artikelen over ademhaling, koudetraining en de Wim Hof-methode, geschreven door Rinda Verspui, ademcoach en vitaliteitscoach in Gorinchem.
 
 ## kennis.hero.kop
-Kennisbank
+Artikelen over ademhaling, leefstijl en mindset
 
 ## kennis.hero.lead
 Wat mensen mij het vaakst vragen, uitgeschreven. Feitelijk, met de bronnen erbij, en zonder grotere beloften dan ik waar kan maken.
