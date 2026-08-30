@@ -235,3 +235,81 @@ concept
 ## kennis-chronische-hyperventilatie.status
 concept
 
+## kennis-wat-is-de-wim-hof-methode.zichtbaar
+nee
+
+## kennis-wie-is-wim-hof.zichtbaar
+nee
+
+## kennis-is-de-wim-hof-methode-gevaarlijk.zichtbaar
+nee
+
+## kennis-eerste-ijsbad.zichtbaar
+nee
+
+## kennis-chronische-hyperventilatie.zichtbaar
+nee
+
+## kennis-leefstijlcoach-of-dietist.titel
+Leefstijlcoach of diëtist? · Vitale Impuls
+
+## kennis-leefstijlcoach-of-dietist.omschrijving
+Wat het verschil is tussen een leefstijlcoach en een diëtist, bij welke vraag je waar terechtkunt, en hoe het met de vergoeding zit.
+
+## kennis-leefstijlcoach-of-dietist.hero.kop
+Leefstijlcoach of diëtist?
+
+## kennis-leefstijlcoach-of-dietist.hero.lead
+Twee beroepen die allebei over gezonder leven gaan, en toch iets anders doen. Waar je met welke vraag terechtkunt.
+
+## kennis-leefstijlcoach-of-dietist.samenvatting
+Het formele en het praktische verschil, bij welke vraag je waar hoort te zijn, hoe de vergoeding werkt, en waar ik zelf sta.
+
+## kennis-leefstijlcoach-of-dietist.status
+concept
+
+## kennis-leefstijlcoach-of-dietist.zichtbaar
+nee
+
+## kennis-waarom-voornemens-stranden.titel
+Waarom goede voornemens stranden · Vitale Impuls
+
+## kennis-waarom-voornemens-stranden.omschrijving
+Waarom kennis en motivatie niet genoeg zijn, de drie patronen die het vaakst misgaan, en wat er wel helpt om iets vol te houden.
+
+## kennis-waarom-voornemens-stranden.hero.kop
+Waarom goede voornemens stranden
+
+## kennis-waarom-voornemens-stranden.hero.lead
+Je weet wat er zou moeten veranderen en toch lukt het niet. Dat ligt zelden aan doorzettingsvermogen.
+
+## kennis-waarom-voornemens-stranden.samenvatting
+Waarom een goed plan het verliest van een oude gewoonte, drie patronen die ik het vaakst zie, en wat er wel werkt.
+
+## kennis-waarom-voornemens-stranden.status
+concept
+
+## kennis-waarom-voornemens-stranden.zichtbaar
+nee
+
+## kennis-beginnende-burn-out.titel
+Beginnende burn-out herkennen · Vitale Impuls
+
+## kennis-beginnende-burn-out.omschrijving
+De signalen van een beginnende burn-out bij jezelf en bij collega's, hoeveel het voorkomt, en wat op tijd ingrijpen scheelt.
+
+## kennis-beginnende-burn-out.hero.kop
+Beginnende burn-out herkennen
+
+## kennis-beginnende-burn-out.hero.lead
+Burn-out komt zelden onverwacht. Maanden van tevoren is het al te zien, alleen wordt het dan gelezen als drukte.
+
+## kennis-beginnende-burn-out.samenvatting
+Hoe vaak het voorkomt, de signalen bij jezelf en bij een collega, en waarom de fase vóór de uitval het verschil maakt.
+
+## kennis-beginnende-burn-out.status
+concept
+
+## kennis-beginnende-burn-out.zichtbaar
+nee
+
