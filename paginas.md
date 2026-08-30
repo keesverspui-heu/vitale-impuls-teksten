@@ -313,3 +313,87 @@ concept
 ## kennis-beginnende-burn-out.zichtbaar
 nee
 
+## kennis-altijd-moe.titel
+Altijd moe en toch geen afwijking · Vitale Impuls
+
+## kennis-altijd-moe.omschrijving
+Waarom bloedonderzoek bij moeheid meestal niets oplevert, wanneer je wél terug moet naar de huisarts, en wat er dan vaak wel speelt.
+
+## kennis-altijd-moe.hero.kop
+Altijd moe, en toch is het bloedonderzoek goed
+
+## kennis-altijd-moe.hero.lead
+Een goede uitslag betekent niet dat er niets aan de hand is. Het betekent dat de oorzaak niet in één buisje bloed zit.
+
+## kennis-altijd-moe.samenvatting
+Waarom bloedprikken bij moeheid zelden iets oplevert, de alarmsignalen waarmee je terug naar de huisarts gaat, en de vier dingen die ik het vaakst zie.
+
+## kennis-altijd-moe.status
+concept
+
+## kennis-altijd-moe.zichtbaar
+nee
+
+## kennis-slecht-slapen.titel
+Slecht slapen en je ademhaling · Vitale Impuls
+
+## kennis-slecht-slapen.omschrijving
+Ruim een op de vier Nederlanders slaapt slecht. Waarom de ademhaling daarbij hoort, wat je vanavond kunt proberen, en wanneer het bij de huisarts hoort.
+
+## kennis-slecht-slapen.hero.kop
+Slecht slapen en je ademhaling
+
+## kennis-slecht-slapen.hero.lead
+In slaap vallen is geen wilsbesluit. Het gebeurt pas als je systeem laag genoeg staat — en daar kun je met je adem wél bij.
+
+## kennis-slecht-slapen.samenvatting
+Hoe vaak slaapproblemen voorkomen, vier patronen die ik het vaakst hoor, vijf dingen om vanavond te proberen, en wanneer het bij de huisarts hoort.
+
+## kennis-slecht-slapen.status
+concept
+
+## kennis-slecht-slapen.zichtbaar
+nee
+
+## kennis-afvallen-zonder-medicatie.titel
+Afvallen zonder pillen · Vitale Impuls
+
+## kennis-afvallen-zonder-medicatie.omschrijving
+Wat het onderzoek zegt over afvalmedicatie en wat er terugkomt na het stoppen, en welke gewoontes wél blijven hangen.
+
+## kennis-afvallen-zonder-medicatie.hero.kop
+Afvallen zonder pillen
+
+## kennis-afvallen-zonder-medicatie.hero.lead
+De vraag is niet meer óf je afvalt met een middel, maar wat er overblijft als je ermee stopt.
+
+## kennis-afvallen-zonder-medicatie.samenvatting
+Wat de STEP 1-studie liet zien toen deelnemers stopten met semaglutide, en welke vier dingen wél blijven hangen als het middel wegvalt.
+
+## kennis-afvallen-zonder-medicatie.status
+concept
+
+## kennis-afvallen-zonder-medicatie.zichtbaar
+nee
+
+## kennis-lichamelijke-klachten-door-stress.titel
+Lichamelijke klachten door stress · Vitale Impuls
+
+## kennis-lichamelijke-klachten-door-stress.omschrijving
+Hoe spanning zich in je lichaam laat zien, waarom je eerst naar de huisarts gaat, en wat er te doen valt als er niets gevonden wordt.
+
+## kennis-lichamelijke-klachten-door-stress.hero.kop
+Lichamelijke klachten door stress
+
+## kennis-lichamelijke-klachten-door-stress.hero.lead
+Spanning blijft niet in je hoofd zitten. Je merkt haar in je lijf, lang voordat je haar spanning noemt.
+
+## kennis-lichamelijke-klachten-door-stress.samenvatting
+Hoe spanning zich lichamelijk laat zien, waarom de huisarts eerst aan zet is, en wat er te doen valt als er niets gevonden wordt.
+
+## kennis-lichamelijke-klachten-door-stress.status
+concept
+
+## kennis-lichamelijke-klachten-door-stress.zichtbaar
+nee
+
