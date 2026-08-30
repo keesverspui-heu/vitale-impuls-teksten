@@ -11,7 +11,7 @@ Durf je beter te voelen!
 Laat mij je begeleiden naar een gezonde leefstijl en persoonlijke groei.
 
 ## home.deel2.p-1
-Ik ben Rinda Verspui, vitaliteitscoach in Gorinchem. Ik help je met voeding, beweging, ontspanning en slaap — en met het doorbreken van de patronen waardoor je steeds terugvalt.
+Ik ben Rinda Verspui, vitaliteitscoach in Gorinchem. Ik help je met voeding, beweging, ontspanning en slaap en met het doorbreken van de patronen waardoor je steeds terugvalt.
 
 ## home.deel3.a-1
 Maak een afspraak
