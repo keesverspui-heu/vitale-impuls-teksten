@@ -11,7 +11,7 @@ Waarom ademhaling
 Het enige deel van je zenuwstelsel dat je zelf kunt bedienen
 
 ## ademhaling.deel2.p-1
-Je hartslag kun je niet aansturen. Je spijsvertering ook niet. Je ademhaling wél — en die staat rechtstreeks in verbinding met hetzelfde systeem. Daarom is je adem de kortste weg naar je eigen spanningsniveau.
+Je hartslag kun je niet aansturen. Je spijsvertering ook niet. Je ademhaling wél en die staat rechtstreeks in verbinding met hetzelfde systeem. Daarom is je adem de kortste weg naar je eigen spanningsniveau.
 
 ## ademhaling.deel3.p-1
 De meeste mensen ademen te hoog, te snel en te veel door de mond, zonder dat ze het merken. Vaak is dat ooit begonnen in een drukke periode en is het daarna nooit meer rustig geworden. Je lichaam blijft dan in een lichte staat van paraatheid, dag in dag uit.
@@ -104,7 +104,7 @@ Opleiding
 Waar ik dit heb geleerd
 
 ## ademhaling.deel33.p-1
-B-Mind is een Nederlandse opleider voor ademcoaches en ademtherapeuten. Zij werken met een bandensysteem, waarbij elke volgende band een verdieping is — vergelijkbaar met hoe dat in de vechtsport gaat.
+B-Mind is een Nederlandse opleider voor ademcoaches en ademtherapeuten. Zij werken met een bandensysteem, waarbij elke volgende band een verdieping is vergelijkbaar met hoe dat in de vechtsport gaat.
 
 ## ademhaling.deel34.h3-1
 White Belt — Ademtraining
