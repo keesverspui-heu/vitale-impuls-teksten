@@ -397,3 +397,23 @@ concept
 ## kennis-lichamelijke-klachten-door-stress.zichtbaar
 nee
 
+## kennis-wat-is-pma.titel
+Wat is PMA (Progressive Mental Alignment)? · Vitale Impuls
+
+## kennis-wat-is-pma.omschrijving
+Waar de afkorting voor staat, het model van vier stappen erachter, hoe een sessie verloopt, en wat er wel en niet over is aangetoond.
+
+## kennis-wat-is-pma.hero.kop
+Wat is PMA?
+
+## kennis-wat-is-pma.hero.lead
+Progressive Mental Alignment: waar de afkorting vandaan komt, wat er in een sessie gebeurt, en wat je er in eerlijkheid van mag verwachten.
+
+## kennis-wat-is-pma.samenvatting
+Waar PMA voor staat, het model erachter, hoe een sessie verloopt, en een eerlijk antwoord op de vraag wat er over de methode is aangetoond.
+
+## kennis-wat-is-pma.status
+concept
+
+## kennis-wat-is-pma.zichtbaar
+nee
