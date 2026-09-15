@@ -185,7 +185,7 @@ Nee. Koudetraining is een aparte keuze en zeker geen verplicht onderdeel. Veel m
 Van één oefening merk je vaak direct dat je rustiger wordt. Dat het blíjft, vraagt herhaling: een paar minuten per dag doet meer dan één keer lang.
 
 ## ademhaling.deel60.p-1
-Ja, en meestal is dat ook de beste combinatie. Ademhaling geeft je rust om te veranderen, [PMA](/pma.html) haalt weg wat je tegenhoudt.
+Ja, en meestal is dat ook een mooie combinatie. Ademhaling geeft je rust om te veranderen, [PMA](/pma.html) haalt weg wat je tegenhoudt.
 
 ## ademhaling.deel61.p-1
 PMA kan heel goed online. Ademcoaching en een ijsbad kan niet online.
