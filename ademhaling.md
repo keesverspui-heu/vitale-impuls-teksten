@@ -92,7 +92,7 @@ Koude, maar dan opgebouwd
 Koudetraining is de laatste jaren populair geworden, voor mij is het belangrijk dat het in een veilige omgeving gebeurd en dat je je veilig voelt.
 
 ## ademhaling.deel29.p-1
-Zoals ik het doe, begint het bij ademhaling: eerst weet je wat je ademhaling doet, daarna komt de koude erbij. Rustig opgebouwd, van koud afdouchen naar meer, in jouw tempo. Het doel is niet om zo lang mogelijk vol te houden, maar om te leren dat je rustig kunt blijven terwijl je lichaam iets ongemakkelijks meemaakt. Dat is precies het vermogen dat je ook nodig hebt op de momenten dat het leven ongemakkelijk wordt.
+Zoals ik het doe, begint het bij ademhaling: eerst weet je wat je ademhaling doet, daarna komt de koude erbij. Rustig opgebouwd, in jouw tempo. Het doel is niet om zo lang mogelijk vol te houden, maar om te leren dat je rustig kunt blijven terwijl je lichaam iets ongemakkelijks meemaakt. Dat is precies het vermogen dat je ook nodig hebt op de momenten dat het leven ongemakkelijk wordt.
 
 ## ademhaling.deel30.figcaption-1
 Twee minuten die je dag veranderen. Zelf ook, elke week.
