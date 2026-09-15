@@ -188,5 +188,4 @@ Van één oefening merk je vaak direct dat je rustiger wordt. Dat het blíjft, v
 Ja, en meestal is dat ook de beste combinatie. Ademhaling geeft je rust om te veranderen, [PMA](/pma.html) haalt weg wat je tegenhoudt.
 
 ## ademhaling.deel61.p-1
-Ademcoaching kan prima online. Voor koudetraining is samen in dezelfde ruimte zijn verstandiger.
-
+PMA kan heel goed online. Ademcoaching en een ijsbad kan niet online.
