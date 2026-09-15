@@ -221,5 +221,5 @@ Vitale Impuls · Rinda Verspui
 Lingsesdijk 45c, 4207 AA Gorinchem · KVK 70448140
 
 ## home.contact.span-3
-[rindaverspui@vitale-impuls.nl](mailto:rindaverspui@vitale-impuls.nl)
+[rindaverspui@vitale-impuls.nl](mailto:rindaverspui@vitale-impuls.nl) · [06 22989010](tel:+31622989010)
 
