@@ -158,16 +158,16 @@ Belangrijk om te weten
 **Doe ademhalingsoefeningen nooit in of vlak bij water**, en niet tijdens het autorijden. Sommige oefeningen kunnen duizeligheid geven.
 
 ## ademhaling.deel51.li-1
-Heb je een hart- of vaataandoening, epilepsie, hoge bloeddruk, een longaandoening of ben je zwanger: overleg eerst met je arts. Dat geldt zeker voor koudetraining.
+Heb je een hart- of vaataandoening, epilepsie, hoge bloeddruk, een longaandoening of ben je zwanger: overleg dan eerst met je arts. Dat geldt zeker voor koudetraining.
 
 ## ademhaling.deel52.li-1
-Gebruik je medicatie, dan pas je die nooit zelf aan. Dat gaat altijd via je arts.
+Gebruik je medicatie, pas deze  dan nooit zelf aan, maar overleg altijd met je (huis)arts.
 
 ## ademhaling.deel53.li-1
-We bouwen op in jouw tempo. Er is geen enkele reden om iets te doen wat niet goed voelt.
+We bouwen het op in jouw tempo. Het is niet de bedoeling om iets te doen wat niet goed voelt.
 
 ## ademhaling.deel54.li-1
-Ik ben coach, geen behandelaar. Bij klachten waarvoor medische zorg nodig is, verwijs ik je door.
+Ik ben coach, geen behandelaar. Bij klachten waarvoor medische zorg nodig is, zal ik je altijd doorverwijzen
 
 ## ademhaling.deel55.p-1
 Veelgestelde vragen
@@ -176,7 +176,7 @@ Veelgestelde vragen
 Wat mensen meestal willen weten
 
 ## ademhaling.deel57.p-1
-Nee. Ademhalen doe je al je hele leven; we kijken alleen hóe je het doet. De oefeningen doe je zittend of liggend.
+Nee. Ademhalen doe je van nature; we kijken alleen hóe je het doet. De oefeningen doe je zittend of liggend.
 
 ## ademhaling.deel58.p-1
 Nee. Koudetraining is een aparte keuze en zeker geen verplicht onderdeel. Veel mensen komen alleen voor de ademhaling.
@@ -185,8 +185,7 @@ Nee. Koudetraining is een aparte keuze en zeker geen verplicht onderdeel. Veel m
 Van één oefening merk je vaak direct dat je rustiger wordt. Dat het blíjft, vraagt herhaling: een paar minuten per dag doet meer dan één keer lang.
 
 ## ademhaling.deel60.p-1
-Ja, en meestal is dat ook de beste combinatie. Ademhaling geeft je rust om te veranderen, [PMA](/pma.html) haalt weg wat je tegenhoudt.
+Ja, en meestal is dat ook een mooie combinatie. Ademhaling geeft je rust om te veranderen, [PMA](/pma.html) haalt weg wat je tegenhoudt.
 
 ## ademhaling.deel61.p-1
-Ademcoaching kan prima online. Voor koudetraining is samen in dezelfde ruimte zijn verstandiger.
-
+PMA kan heel goed online. Ademcoaching en een ijsbad kan niet online.
