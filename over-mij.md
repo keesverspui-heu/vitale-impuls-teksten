@@ -11,7 +11,7 @@ Over mij
 Hoe ik hier terechtkwam
 
 ## over-mij.deel2.p-1
-Ik ben Rinda Verspui. Ruim vijfentwintig jaar werkte ik in de acute zorg, op de ambulance en op de intensive care. Tegenwoordig help ik mensen om daar juist niet terecht te komen.
+Ik ben Rinda Verspui. Ruim vijfentwintig jaar werkte ik als verpleegkundige, op de ambulance, de OK en op de intensive care. Tegenwoordig help ik mensen om daar juist niet terecht te komen.
 
 ## over-mij.deel3.p-1
 Tijdens mijn opleiding tot verpleegkundige kwam holisme ter sprake: kijk naar de mens in zijn geheel, niet naar de ziekte alleen. Die les is me altijd bijgebleven. In de praktijk viel het alleen tegen. Onze zorg is ingericht rond de aandoening die iemand heeft, en veel minder rond het leven waarin die aandoening is ontstaan. Terwijl lichaam, geest en omgeving onlosmakelijk met elkaar verbonden zijn — dat zag ik elke dienst opnieuw.

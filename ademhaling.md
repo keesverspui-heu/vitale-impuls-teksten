@@ -167,7 +167,7 @@ Gebruik je medicatie, pas deze  dan nooit zelf aan, maar overleg altijd met je (
 We bouwen het op in jouw tempo. Het is niet de bedoeling om iets te doen wat niet goed voelt.
 
 ## ademhaling.deel54.li-1
-Ik ben coach, geen behandelaar. Bij klachten waarvoor medische zorg nodig is, zal ik je altijd doorverwijzen
+Ik ben coach,  geen behandelaar. Bij klachten waarvoor medische zorg nodig is, zal ik je altijd doorverwijzen
 
 ## ademhaling.deel55.p-1
 Veelgestelde vragen
