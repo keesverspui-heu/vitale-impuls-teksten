@@ -170,11 +170,10 @@ Nee. Een schema werkt zolang je het volhoudt, en dat is precies het probleem. We
 Dat hangt af van je vraag en van wat je wilt bereiken. In het kennismakingsgesprek geef ik een eerlijke inschatting. Tussentijds stoppen kan altijd.
 
 ## leefstijl.deel55.p-1
-Er bestaat een vergoede gecombineerde leefstijlinterventie (GLI) via de huisarts, maar die werkt met aangewezen aanbieders en strikte voorwaarden. Mijn begeleiding valt daar niet onder. Sommige aanvullende verzekeringen vergoeden coaching wel gedeeltelijk — vraag dat na bij je eigen verzekeraar.
+Er bestaat een vergoede gecombineerde leefstijlinterventie (GLI) via de huisarts, maar die werkt met aangewezen aanbieders en strikte voorwaarden. Mijn begeleiding valt daar niet onder.
 
 ## leefstijl.deel56.p-1
 Dat geldt voor bijna iedereen die hier komt. Als kennis het probleem niet is, ligt het meestal een laag dieper. Daar gaat de [PMA-pagina](/pma.html) over.
 
 ## leefstijl.deel57.p-1
-Ja. Veel van mijn begeleiding kan telefonisch of online, en dat scheelt reistijd.
-
+Ja. PMA sessies en leefstijladvies kan online, bij ademtrajecten en het ervaren van een ijsbad kan dat niet.
