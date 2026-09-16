@@ -32,13 +32,13 @@ Geen snelle oplossing, wel een die blijft
 Ik geloof niet in een kuur van zes weken. Ik zoek met je naar veranderingen die bij jou passen en die je daardoor volhoudt: in voeding, in beweging, in slaap en rust. Dat is het fundament, en dat leg je stap voor stap.
 
 ## over-mij.deel9.p-1
-Maar wie ooit geprobeerd heeft blijvend iets te veranderen, weet dat kennis zelden het probleem is. Je weet meestal prima wat je zou moeten doen. Dat je het niet doet, ligt niet aan te weinig doorzettingsvermogen — zo eenvoudig is het niet. Er zitten overtuigingen onder je gedrag die sterker zijn dan je voornemen, en waar je je nauwelijks bewust van bent. Toen ik [PMA](/pma.html) leerde kennen, ontdekte ik hoe je daar wél bij kunt komen. Via een vraagtechniek ga je naar de oorsprong van zo’n overtuiging, en vanaf dat moment kun je andere keuzes maken. Ook de keuzes die een vitaler leven vragen.
+Maar wie ooit geprobeerd heeft blijvend iets te veranderen, weet dat kennis niet altijd het probleem is. Je weet meestal wel wat je zou moeten doen. Dat je het niet doet, ligt niet aan te weinig doorzettingsvermogen — zo eenvoudig is het niet. Er zitten overtuigingen onder je gedrag die sterker zijn dan je voornemen, en waar je je nauwelijks bewust van bent. Toen ik [PMA](/pma.html) leerde kennen, ontdekte ik hoe je daar wél bij kunt komen. Via een vraagtechniek ga je naar de oorsprong van zo’n overtuiging, en vanaf dat moment kun je andere keuzes maken. Ook de keuzes die een vitaler leven vragen.
 
 ## over-mij.deel10.h3-1
 En toen kwam de adem erbij
 
 ## over-mij.deel11.p-1
-Er ontbrak nog iets. Je hartslag kun je niet aansturen, je spijsvertering evenmin — je [ademhaling](/ademhaling.html) wél. Het is het enige deel van dat systeem waar je zelf bij kunt. Toen ik leerde hoe direct dat werkt, op spanning, op slaap, op herstel, wilde ik het goed leren. Ik ben opgeleid tot ademcoach en daarna tot koudecoach, want koude doet iets vergelijkbaars: het leert je lichaam rustig blijven op het moment dat alles in je schreeuwt om weg te gaan. Geen stunt, geen wedstrijd. Een oefening in ontspannen onder spanning — en dat neem je mee naar alles wat daarna spannend wordt.
+Er ontbrak nog iets. Je hartslag kun je niet aansturen, je spijsvertering evenmin — je [ademhaling](/ademhaling.html) tot op zekere hoogte wél. Het is het deel van dat systeem waar je zelf bij kunt. Toen ik leerde hoe direct dat werkt, op spanning, op slaap, op herstel, wilde ik dat ook leren. Ik ben opgeleid tot ademcoach en daarna tot koudecoach, want koude doet iets vergelijkbaars: het leert je lichaam rustig blijven op het moment dat alles in je schreeuwt om weg te gaan. Geen stunt, geen wedstrijd. Een oefening in ontspannen onder spanning — en dat neem je mee naar alles wat daarna spannend wordt.
 
 ## over-mij.deel12.p-1
 Zo is Vitale Impuls ontstaan. Voeding, beweging, rust, ademhaling en mentale balans, niet als losse onderdelen maar als één geheel, omdat ze in jouw leven ook niet los van elkaar staan. Dat is de reis die ik heb gemaakt, van de acute zorg naar de voorkant. Ik denk dat ik daar mooie dingen aan heb overgehouden om jou mee te helpen.
